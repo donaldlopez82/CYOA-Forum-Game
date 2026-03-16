@@ -1,10 +1,5 @@
 Zombie Apocalypse
 
-
-Logo
-Description
-Playing the game requires internet and the ability to read. You must also be aware this game is for mature audience and not for the feint hearted. Please remember to keep all hands and feet inside at all times as you could be eaten by a Zombie. Thanks again for flying Alterra the only inter-galactic space agency this side of the Milky Way.
-
 Table of Contents
 Usage
 Credits
