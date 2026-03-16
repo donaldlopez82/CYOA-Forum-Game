@@ -17,5 +17,3 @@ User cookies will last for a day if they dont log out.
 Admin users can delete threads, delete posts, and reach the admin page from the navbar.
 In the admin page admins can view all users, their emails, admin status and registration/last login datetimes, can search users by name, and delete users.
 When a user is deleted, all posts made by the user are deleted as well.
-Credits
-Collaborators
